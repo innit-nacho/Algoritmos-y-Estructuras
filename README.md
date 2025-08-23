@@ -1,5 +1,5 @@
 # Algoritmos-y-Estructuras
 Temario y ejercicios de catedra
 
-PUNTEROS:
+PUNTEROS: pegamos cambiazo
 
