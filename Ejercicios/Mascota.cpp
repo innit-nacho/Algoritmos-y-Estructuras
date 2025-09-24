@@ -13,8 +13,8 @@ mascota hamster;
 hamster.edad =15;
 hamster.nombre = "juan";
 mascota* q = &hamster;
-cout << q->edad << endl << q->nombre << endl;
+cout << "Edad del animal: " << q->edad << endl << "Nombre de la bestia: " << q->nombre << endl;
 q->edad=2;
-cout << q->edad << endl << q->nombre << endl;
+cout << "Edad del animal: " << q->edad << endl << "Nombre de la bestia: " << q->nombre << endl;
 
-}
+} 
